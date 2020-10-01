@@ -4,7 +4,7 @@ __*Warning: This repo has been deprecated in favor of https://github.com/hackclu
 
 Congratulations, you've stumbled upon Hack Club's website. Achievement get!
 
-## Getting Started
+## Getting Started with it
 
 Our website is developed using [Docker Compose](https://docs.docker.com/compose/). If you don't already have it installed, do that now.
 
